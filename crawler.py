@@ -1,3 +1,4 @@
+# did not get the code to work
 from urllib.request import Request, urlopen
 from selenium import webdriver
 from bs4 import BeautifulSoup
